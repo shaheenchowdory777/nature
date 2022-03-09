@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+a {
+     text-decoration: none;
+}
+
+.service-item {
+    background-color: #f5f5f5;
+}
+
+#footer {
+    background-color: rgb(246, 216, 115);
+  
+}
+
+.footer-item  p {
+    padding-top: 8px;
+}
